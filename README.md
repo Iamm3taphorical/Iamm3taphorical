@@ -40,9 +40,9 @@ I am currently involved in multiple clubs that align with my interests in **Robo
 
 ## 📊 GitHub Stats & Activity
 
-![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randomaccessmemory21&show_icons=true&theme=dark)
+![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randomaccessmemory21&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=dark)
 
 ---
 
