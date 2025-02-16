@@ -1,51 +1,59 @@
-### Hi there, I'm Mahir Dyan! 👋  
-**Assalamu Alaikum!** Welcome to my GitHub profile! 
+# 👋 Hello, I'm Mahir Dyan
+
+## About Me
+
+Hey there! I’m Mahir Dyan, a **Computer Science and Engineering student** at **BRAC University** with a passion for **software development, robotics, and innovation**. I enjoy building **Efficient Algorithms**, exploring **AI-driven Applications** and various branches of **Robotics and Automation**, and working on **Full-Stack Web Development** using **MERN stack**.
+
+I am currently involved in multiple clubs that align with my interests in **Robotics, AI, and Technology**. I serve as a **General Member of Human Resources (HR)** at the **Robotics Club of BRAC University (ROBU)** and **BRAC University Computer Club (BUCC)**, where I engage with club activities and member coordination. Additionally, I am a **General Member** of the **IEEE BRACU Student Branch**, contributing to tech-driven initiatives. These platforms allow me to learn, collaborate, and grow in fields I am passionate about.
+
+### 🛠️ Skills & Technologies
+
+**Programming Languages:** Java, Python, JavaScript, C++ 
+
+**Web Development:** HTML, CSS, JavaScript, React.js, Node.js  
+
+**Databases:** MySQL, MongoDB   
+
+**Soft Skills:** Leadership, Critical Thinking & Problem-Solving, Creativity & Innovation (Building projects, exploring tech), Content Writing & Digital Marketing, Technical Documentation & Report Writing. 
 
 ---
 
-### 🚀 About Me
-I’m currently in my 5th semester of **Computer Science & Engineering at BRAC University**. My core expertise lies in **Java** and **Python**, with a strong focus on **Data Structures & Algorithms in Java**. Alongside academics, I have a deep interest in **MERN stack development** and **robotics**, where I love applying my technical skills in creative ways.
+## 🏆 Achievements & Experience
 
-🔹 **Exploring:** Full-Stack Web Development (MERN) & Robotics  
-🔹 **Learning:** Data Structures in Java & Advanced Programming Concepts  
-🔹 **Engaged in:** IEEE BRACU, ROBU, BUCC  
-🔹 **Interests:** Digital Marketing, Leadership, Critical Thinking, Creativity  
+- **Quizzing Society of D.Boyzists** - Active participant in competitive knowledge-based events (Dhanmondi Government Boys' High School)
 
-I may not be the strongest academically, but I’m eager to improve, collaborate, and grow! 🚀
+- **Human Resource & Strategic Planner** - Mohammadpur Government College Science Club
+
+- **General Member** - IEEE BRACU Student Branch, Robotics Club of BRACU (ROBU), BRAC University Computer Club (BUCC)
 
 ---
 
-### 📌 Featured Projects
-#### 🕹️ [Project Name - Example](#) 
-*A brief description of your project with a demo image or link.*  
-**Tech Stack:** JavaScript, React, Node.js, MongoDB  
-[🔗 View Project](#) | [📄 Read More](#)
+## 🚀 What I'm Working On
 
-#### 🤖 [Robotics Project - Example](#) 
-*Description of your robotics project with an image or link.*  
-**Tech Stack:** Python, OpenCV, Machine Learning  
-[🔗 View Project](#) | [📄 Read More](#)
+- **Expanding my GitHub portfolio** with projects in **robotics, web development, and AI**
+
+- Learning and implementing **backend development** and **database management**
+
+- **Gesture-Controlled Robotics** - Integrating Machine Vision for intelligent automation
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
+
 ![Mahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randomaccessmemory21&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=randomaccessmemory21&layout=compact&theme=dark)
 
 ---
 
-### 🛠️ Skills & Technologies
-**Programming Languages:** Java, Python, JavaScript, C  
-**Web Development:** HTML, CSS, JavaScript, React.js, Node.js  
-**Databases:** MySQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, Firebase, Figma, VS Code  
-**Soft Skills:** Leadership, Problem-Solving, Digital Marketing, Negotiation  
+## 📫 Let's Connect!
 
----
+- **LinkedIn:** [Mahir Dyan](https://www.linkedin.com/in/mahir-dyan-47b396310/)
 
-### 🌍 Connect With Me
-📩 **Email:** mahirdyan30@gmail.com  
-🔗 **LinkedIn:** [Mahir Dyan](https://www.linkedin.com/in/mahir-dyan-47b396310/)  
-🔗 **Facebook:** [Mahir Dyan](https://www.facebook.com/science.mgc)  
+- **GitHub:** [https://github.com/Iamm3taphorical]
 
-Let’s collaborate and build something amazing together! ✨
+- **Email:** [mahirdyan30@gmail.com]
+
+- **Facebook:** [Mahir Dyan](https://www.facebook.com/profile.php?id=61556051235878)
+
+✨ Always eager to learn, build, and collaborate. ✨
