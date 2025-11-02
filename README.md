@@ -40,7 +40,6 @@
 
 ---
 
-# 👋 Hello, I’m Mahir Dyan
 
 ## About Me  
 I’m a **Computer Science & Engineering student** at BRAC University (Dhaka, Bangladesh), passionate about **software development**, **robotics**, **automation**, and **AI-driven solutions**.  
