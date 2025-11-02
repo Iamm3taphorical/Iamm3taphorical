@@ -15,7 +15,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/Iamm3taphorical" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="60" height="35" alt="GitHub logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" alt="GitHub logo" />
   </a>
   <a href="https://codeforces.com/profile/mahir.dyan" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces logo" />
@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank logo" />
   </a>
   <a href="mailto:mahirdyan30@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="Gmail logo" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" alt="Gmail logo" />
   </a>
 </div>
 
@@ -104,7 +104,6 @@ I focus on building end-to-end systems that combine robust software engineering 
 3. Deploy a perception → inference → dashboard demo (via GitHub Pages + lightweight backend/cloud function).  
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -113,25 +112,21 @@ I focus on building end-to-end systems that combine robust software engineering 
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/user/Iamm3taphorical" alt="GitHub Contribution Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamm3taphorical&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamm3taphorical&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamm3taphorical&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamm3taphorical&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamm3taphorical&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamm3taphorical&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamm3taphorical&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamm3taphorical&theme=radical&utcOffset=6" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamm3taphorical&theme=radical" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamm3taphorical&theme=radical&utcOffset=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamm3taphorical&count_private=true&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Iamm3taphorical&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -165,11 +160,11 @@ I’m always open to collaboration on robotics, web systems, and AI projects. Fe
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Iamm3taphorical/count.svg" alt="visitor-count" />
+  <img src="https://komarev.com/ghpvc/?username=Iamm3taphorical&label=Profile+Views&color=0e75b6&style=flat" alt="visitor-count" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/ahmedishraq/ahmedishraq/blob/main/bd_flag.png?raw=true" width="140" height="80" alt="bd flag" />
+  <img src="https://github.com/Iamm3taphorical/Iamm3taphorical/blob/main/bd_flag.png?raw=true" width="140" height="80" alt="bd flag" />
 </p>
 
 <div align="center">
