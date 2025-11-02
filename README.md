@@ -167,6 +167,6 @@ I’m always open to collaboration on robotics, web systems, and AI projects. Fe
   <img src="https://github.com/Iamm3taphorical/Iamm3taphorical/blob/main/bd_flag.png?raw=true" width="140" height="80" alt="bd flag" />
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer-graphic" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/bd_flag.png" width="140" height="80" alt="Bangladesh Flag" />
+</p>
