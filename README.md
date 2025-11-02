@@ -1,3 +1,45 @@
+<h1 align="center">
+  👋 Hello, I’m Mahir Dyan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
+</h1>
+
+<!-- Typing SVG Header -->
+<p align="center">
+  <a href="https://github.com/Iamm3taphorical">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03A062&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Robotics+%26+AI+Enthusiast;Software+Developer+%26+Builder;Always+Learning%2C+Building%2C+and+Sharing" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Centered Social Media Icons -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="https://github.com/Iamm3taphorical" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="60" height="35" alt="GitHub logo" />
+  </a>
+  <a href="https://codeforces.com/profile/mahir.dyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces logo" />
+  </a>
+  <a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" alt="LeetCode logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank logo" />
+  </a>
+  <a href="mailto:mahirdyan30@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="Gmail logo" />
+  </a>
+</div>
+
+---
+
+<!-- Coding GIF Banner -->
+<p align="center">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="700" height="320" alt="Coding GIF" />
+</p>
+
+---
+
 # 👋 Hello, I’m Mahir Dyan
 
 ## About Me  
@@ -64,10 +106,33 @@ I focus on building end-to-end systems that combine robust software engineering 
 ---
 
 ## 📊 GitHub Stats & Activity
-[![Mahir’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=dark&count_private=true)](https://github.com/Iamm3taphorical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=dark)](https://github.com/Iamm3taphorical)  
 
-![GitHub Contribution Activity](https://github-contributions.vercel.app/user/Iamm3taphorical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight&count_private=true" alt="Mahir’s GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributions.vercel.app/user/Iamm3taphorical" alt="GitHub Contribution Activity" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamm3taphorical&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamm3taphorical&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamm3taphorical&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamm3taphorical&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamm3taphorical&theme=radical&utcOffset=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamm3taphorical&count_private=true&theme=tokyonight" alt="streak" />
+</p>
 
 ---
 
@@ -96,3 +161,17 @@ I’m always open to collaboration on robotics, web systems, and AI projects. Fe
 - Workshop or hackathon participation  
 
 ✨ Always learning, building, and sharing.
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Iamm3taphorical/count.svg" alt="visitor-count" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmedishraq/ahmedishraq/blob/main/bd_flag.png?raw=true" width="140" height="80" alt="bd flag" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="footer-graphic" />
+</div>
