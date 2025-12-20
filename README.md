@@ -38,145 +38,80 @@
 
 ---
 
-## 🧠 System Definition (C++ Perspective)
+## 👨‍💻 About Me
+I’m a **Computer Science & Engineering student** at **BRAC University (Dhaka, Bangladesh)** with a strong interest in **software engineering, robotics, automation, and AI-driven systems**.
 
-```cpp
-class MahirDyan {
-private:
-    string university = "BRAC University";
-    string degree     = "Computer Science & Engineering";
-    string location   = "Dhaka, Bangladesh";
+I enjoy designing algorithms, building full-stack applications, and integrating **machine vision, control systems, and embedded software** into real-world robotic platforms.  
+My work philosophy centers on **clarity, collaboration, and real-world impact**.
 
-    vector<string> coreDomains = {
-        "Software Engineering",
-        "Robotics",
-        "Automation",
-        "AI-Driven Systems"
-    };
+---
 
-    vector<string> workPrinciples = {
-        "Clarity",
-        "Collaboration",
-        "Real-World Impact"
-    };
+## 🛠️ Skills & Technologies
 
-    vector<string> programmingLanguages = {
-        "Java", "Python", "C++", "C#"
-    };
+**Programming Languages**  
+Java · Python · C++ · C#
 
-    vector<string> webStack = {
-        "HTML", "CSS", "JavaScript", "TypeScript",
-        "React", "Node.js", "Express", "MongoDB", "MySQL"
-    };
+**Web & Backend**  
+HTML · CSS · JavaScript · TypeScript · React · Node.js · Express · MongoDB · MySQL
 
-    vector<string> roboticsStack = {
-        "Machine Vision",
-        "Control Systems",
-        "Sensor Integration",
-        "Embedded Programming"
-    };
+**Robotics & Embedded Systems**  
+Machine Vision · Control Systems · Sensor Integration · Embedded Programming
 
-    vector<string> engineeringPractices = {
-        "Object-Oriented Programming",
-        "Functional Programming",
-        "REST API Design",
-        "Modular Architecture",
-        "Technical Documentation"
-    };
+**Engineering Practices**  
+OOP · Functional Programming · REST APIs · Modular Design · Documentation
 
-    vector<string> softSkills = {
-        "Leadership",
-        "Team Coordination",
-        "Technical Writing",
-        "Community Management"
-    };
+**Soft Skills**  
+Leadership · Team Coordination · Technical Writing · Community & Content Management
 
-public:
-    struct Experience {
-        string organization;
-        string role;
-        string focus;
-        string duration;
-    };
+---
 
-    vector<Experience> experienceTimeline = {
+## 💼 Experience & Projects
 
-        {
-            "Projukti Lipi",
-            "Co-Founder",
-            "Technology Awareness, Project Execution, Partnerships, Community Innovation",
-            "2025 – Present"
-        },
+### Projukti Lipi — Co-Founder (2025 – Present)
+Co-founded a student-led tech initiative focused on technology awareness, project execution, partnerships, and community-driven innovation.
 
-        {
-            "BRACU Duburi",
-            "Machine Vision & AI Team Member",
-            "AUV Object Detection, Navigation Logic, Real-Time Decision Pipelines",
-            "2025 – Present"
-        },
+### BRACU Duburi — Team Member (Machine Vision & AI) (2025 – Present)
+Working on machine vision and AI subsystems for an **autonomous underwater vehicle (AUV)**, including object detection, navigation logic, and real-time decision pipelines.
 
-        {
-            "BRACU Alter",
-            "Control & AI Team Member",
-            "Rescue Rover Control Theory, System Modeling, Stability Analysis",
-            "Former"
-        },
+### Former Team Member — BRACU Alter (Control & AI)
+Contributed to autonomous rescue rover systems with a focus on **control theory, system modeling, stability analysis, and AI-based navigation modules**.
 
-        {
-            "BRACU Diganta",
-            "Avionics Team Member",
-            "UAV Embedded Software, Sensor Integration, Communication Systems",
-            "Former"
-        },
+### Former Team Member — BRACU Diganta (Avionics)
+Developed avionics and embedded software for **UAV platforms**, including sensor integration, communication modules, and flight-data handling.
 
-        {
-            "Robotics Club of BRAC University",
-            "Apprentice",
-            "HR Operations, Robotics Prototyping & Testing",
-            "2024 – Present"
-        },
+### Robotics Club of BRAC University (ROBU) — Apprentice (2024 – Present)
+Supported robotics initiatives through HR operations, team coordination, and cross-team collaboration. Participated in hands-on robotics prototyping and testing workflows.
 
-        {
-            "BRAC University Computer Club",
-            "Executive",
-            "Workshops, Coding Sessions, Community Engagement",
-            "2024 – Present"
-        },
+### BRAC University Computer Club (BUCC) — Executive (2024 – Present)
+Organized workshops, coding sessions, and community activities while assisting in internal project coordination and member engagement.
 
-        {
-            "IEEE BRACU Student Branch",
-            "General Member",
-            "Technical Events, Research Initiatives, Knowledge Sharing",
-            "2024 – Present"
-        },
+### IEEE BRACU Student Branch — General Member (2024 – Present)
+Actively involved in technical events, research-oriented initiatives, and knowledge-sharing programs.
 
-        {
-            "Mohammadpur Government College Science Club",
-            "HR & Strategic Planner",
-            "Science & Technology Event Planning",
-            "2021 – 2022"
-        }
-    };
+### Mohammadpur Government College Science Club — HR & Strategic Planner (2021 – 2022)
+Led member engagement strategies and organized science and technology events to expand outreach and participation.
 
-    vector<string> currentFocus = {
-        "Data Structures & Algorithms (Java) — Production-Grade Implementations",
-        "YOLO + OpenCV Computer Vision Pipelines",
-        "Robotics System Integration & Sensor Fusion",
-        "Full-Stack Dashboards & Deployment",
-        "Competitive Programming Growth",
-        "Testing, CI/CD, Modular Architecture",
-        "Lightweight Model Deployment & Edge Inference",
-        "Open Source Learning & Teaching Repositories"
-    };
+---
 
-    vector<string> shortTermGoals = {
-        "Package YOLO pipelines into reusable CLI-based Python modules",
-        "Achieve full test coverage for CSE220_Data_Structure",
-        "Deploy perception → inference → dashboard pipeline"
-    };
-};
-````
+## 🚀 Current Focus
 
+I’m currently focused on building **end-to-end systems** that bridge strong software foundations with real-world robotics and ML applications.
+
+- **Data Structures & Algorithms (Java):** production-grade implementations with structured documentation (`CSE220_Data_Structure`)
+- **Computer Vision & Object Detection:** YOLO + OpenCV pipelines for robotics use-cases
+- **Robotics Systems Integration:** sensor fusion, control loops, and real-time pipelines for autonomous platforms
+- **Full-Stack Development:** portfolio systems, dashboards, and deployment fundamentals
+- **Competitive Programming:** continuous improvement on Codeforces, LeetCode, and HackerRank
+- **Engineering Best Practices:** testing, CI/CD, modular architecture, and clean documentation
+- **Model Deployment & Cloud Basics:** lightweight inference, edge deployment, and cloud fundamentals
+- **Open Source & Teaching:** well-documented learning repositories and peer-friendly resources
+
+**Short-Term Goals (Next 3 Months):**
+1. Convert YOLO notebooks into reusable Python packages with CLI support  
+2. Add full test coverage to `CSE220_Data_Structure`  
+3. Deploy a perception → inference → dashboard demo  
+
+---
 
 ## 📊 GitHub Stats & Activity
 
@@ -196,16 +131,19 @@ public:
 ---
 
 ## 🏆 Awards & Competitions
-
-* Top 8 Finalist — AI Hackathon
-* Participant — National Robotics Championship (NRC)
-* Participant — Traction অভ্যুদয় (National Robotics Competition)
+- Top 8 Finalist — AI Hackathon  
+- Participant — National Robotics Championship (NRC)  
+- Participant — Traction অভ্যুদয় (National Robotics Competition)
 
 ---
 
 ## 📫 Let’s Collaborate
-
 I’m always open to collaboration on **robotics, AI systems, and full-stack software projects**.
+
+Feel free to reach out for:
+- Open-source contributions  
+- Research or project collaboration  
+- Hackathons, workshops, or mentorship  
 
 ✨ *Always learning, building, and sharing.*
 
