@@ -116,16 +116,28 @@ I’m currently focused on building **end-to-end systems** that bridge strong so
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=tokyonight" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamm3taphorical&theme=radical" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Iamm3taphorical&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Iamm3taphorical&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamm3taphorical&theme=tokyonight"
+  />
+</p>
+
 </p>
 
 ---
