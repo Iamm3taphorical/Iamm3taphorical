@@ -225,12 +225,10 @@ Open to collaboration on **robotics, AI systems, research, and full-stack softwa
 | **B1** | [A3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cb1a3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [C3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cb1c3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **G1** | [F3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cg1f3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cg1h3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
+
 **Top 20 Leaderboard**
 
 | Moves | Who |
 | ----- | --- |
 <!-- CHESS_END -->
-
-## 📈 Activity Overview
-<img src="https://github.com/Iamm3taphorical/Iamm3taphorical/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
