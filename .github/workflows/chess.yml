@@ -354,8 +354,9 @@ jobs:
           
 
           # Pre-calculate turn strings to ensure consistency and easier debugging
-          active_color_str = game.board.active_color.to_s
-          puts "DEBUG: Active Color: #{active_color_str.inspect}"
+          # Use downcase to handle Symbol vs String and capitalization variants
+          active_color_str = game.board.active_color.to_s.downcase
+          puts "DEBUG: Active Color (processed): #{active_color_str.inspect}"
           
           # Force a boolean comparison against 'black' string
           is_black_turn = (active_color_str == 'black')

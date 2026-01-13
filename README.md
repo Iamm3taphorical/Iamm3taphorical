@@ -144,6 +144,7 @@ Led member engagement strategies and organised science and technology outreach p
 
 ## 📊 GitHub Stats & Activity
 
+<table>
     <tr>
         <td align="center">
             <a href="https://github.com/Iamm3taphorical">
