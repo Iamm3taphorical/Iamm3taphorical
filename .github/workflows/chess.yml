@@ -356,7 +356,7 @@ jobs:
 
             ## Community Chess Tournament
 
-            **#{game_state}** This is open to ANYONE to play the next move. It's your turn! Move a #{(game.board.active_color) ? 'black (solid)' : 'white (hollow)'} piece.
+            **#{game_state}** This is open to ANYONE to play the next move. It's your turn! Move a #{(game.board.active_color.to_s == 'black') ? 'black (solid)' : 'white (hollow)'} piece.
 
           HTML
 
@@ -389,7 +389,7 @@ jobs:
           else
             chess_content.concat <<~HTML
 
-              #### **#{(game.board.active_color) ? 'BLACK (solid)' : 'WHITE (hollow)'}:** It's your move... to choose _where_ to move...
+              #### **#{(game.board.active_color.to_s == 'black') ? 'BLACK (solid)' : 'WHITE (hollow)'}:** It's your move... to choose _where_ to move...
 
               | FROM | TO - _just click one of the links_ :) |
               | ---- | -- |
