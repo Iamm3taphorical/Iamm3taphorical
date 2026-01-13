@@ -55,6 +55,10 @@ jobs:
           require 'active_support/core_ext/array'
           require 'octokit'
           require 'chess'
+          require 'fileutils'
+
+          # Ensure data directory exists
+          FileUtils.mkdir_p('chess_games')
 
           def error_notification(repo_nwo, issue_num, reaction, new_comment_body, e = nil)
             @octokit.add_comment(repo_nwo, issue_num, new_comment_body)
@@ -244,7 +248,7 @@ jobs:
                 File.write(leaderboard_file, sorted_lines.join("\n") + "\n")
                 
               rescue StandardError => e
-                comment_text = "@#{ENV.fetch('EVENT_USER_LOGIN')} Couldn't update local game files. Sorry."
+                comment_text = "@#{ENV.fetch('EVENT_USER_LOGIN')} Couldn't update local game files. Error: #{e.message}"
                 error_notification(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), 'confused', comment_text, e)
                 exit(0)
               end
