@@ -352,11 +352,23 @@ jobs:
           
           current_readme = File.read('README.md')
           
+
+          # Pre-calculate turn strings to ensure consistency and easier debugging
+          active_color_str = game.board.active_color.to_s
+          puts "DEBUG: Active Color: #{active_color_str.inspect}"
+          
+          # Force a boolean comparison against 'black' string
+          is_black_turn = (active_color_str == 'black')
+          puts "DEBUG: Is Black Turn: #{is_black_turn}"
+
+          current_turn_name = is_black_turn ? 'black (solid)' : 'white (hollow)'
+          current_turn_caps = is_black_turn ? 'BLACK (solid)' : 'WHITE (hollow)'
+          
           chess_content = <<~HTML
 
             ## Community Chess Tournament
 
-            **#{game_state}** This is open to ANYONE to play the next move. It's your turn! Move a #{(game.board.active_color.to_s == 'black') ? 'black (solid)' : 'white (hollow)'} piece.
+            **#{game_state}** This is open to ANYONE to play the next move. It's your turn! Move a #{current_turn_name} piece.
 
           HTML
 
@@ -389,7 +401,7 @@ jobs:
           else
             chess_content.concat <<~HTML
 
-              #### **#{(game.board.active_color.to_s == 'black') ? 'BLACK (solid)' : 'WHITE (hollow)'}:** It's your move... to choose _where_ to move...
+              #### **#{current_turn_caps}:** It's your move... to choose _where_ to move...
 
               | FROM | TO - _just click one of the links_ :) |
               | ---- | -- |

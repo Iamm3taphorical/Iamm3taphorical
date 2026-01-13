@@ -144,11 +144,15 @@ Led member engagement strategies and organised science and technology outreach p
 
 ## 📊 GitHub Stats & Activity
 
-<table>
     <tr>
-        <td align="center" colspan="2">
+        <td align="center">
             <a href="https://github.com/Iamm3taphorical">
-                <img src="github-metrics.svg" alt="My GitHub Stats"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/Iamm3taphorical">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&theme=tokyonight&layout=compact&langs_count=8" alt="My Top Languages"/>
             </a>
         </td>
     </tr>
