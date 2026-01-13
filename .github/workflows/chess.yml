@@ -357,14 +357,12 @@ jobs:
           current_readme = File.read('README.md')
           
 
-          # Pre-calculate turn strings to ensure consistency and easier debugging
-          # Use downcase to handle Symbol vs String and capitalization variants
-          active_color_str = game.board.active_color.to_s.downcase
-          puts "DEBUG: Active Color (processed): #{active_color_str.inspect}"
-          
-          # Force a boolean comparison against 'black' string
-          is_black_turn = (active_color_str == 'black')
-          puts "DEBUG: Is Black Turn: #{is_black_turn}"
+          # The foolproof way to know whose turn it is
+          # 0 moves -> White (Even)
+          # 1 move  -> Black (Odd)
+          # 2 moves -> White (Even)
+          is_black_turn = (game.moves.length % 2 == 1)
+          puts "DEBUG: Moves Length: #{game.moves.length}, Is Black Turn: #{is_black_turn}"
 
           current_turn_name = is_black_turn ? 'black (solid)' : 'white (hollow)'
           current_turn_caps = is_black_turn ? 'BLACK (solid)' : 'WHITE (hollow)'
