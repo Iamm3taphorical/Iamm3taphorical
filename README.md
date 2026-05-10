@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hello, I’m Mahir Dyan
+  👋 Hello, I'm Mahir Dyan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
 </h1>
 
@@ -14,22 +14,22 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Iamm3taphorical" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" alt="GitHub" />
   </a>
   <a href="https://codeforces.com/profile/mahir.dyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces" />
   </a>
   <a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank" />
   </a>
   <a href="mailto:mahirdyan30@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" alt="Gmail" />
   </a>
 </div>
 
@@ -42,7 +42,8 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Computer Science & Engineering student** at **BRAC University (Dhaka, Bangladesh)** with a strong interest in **software engineering, robotics, automation, and AI-driven systems**.
+
+I'm a **Computer Science & Engineering student** at **[BRAC University](https://www.bracu.ac.bd/) (Dhaka, Bangladesh)** with a strong interest in **software engineering, robotics, automation, and AI-driven systems**.
 
 I enjoy designing algorithms, building full-stack applications, and integrating  
 **machine vision, control systems, and embedded software** into real-world robotic platforms.
@@ -65,20 +66,35 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-555?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=white)
 
+**AI & Machine Learning**  
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20(YOLOv8)-555?style=flat&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-555?style=flat&logo=openai&logoColor=white)
+![ML Pipelines](https://img.shields.io/badge/-ML%20Pipelines-555?style=flat&logo=scikitlearn&logoColor=white)
+
 **Robotics & Embedded Systems**  
-![Machine Vision](https://img.shields.io/badge/-Machine%20Vision-555?style=flat&logo=opencv&logoColor=white)
-![Control Systems](https://img.shields.io/badge/-Control%20Systems-555?style=flat&logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS%20(Learning)-555?style=flat&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-555?style=flat&logo=arduino&logoColor=white)
 ![Embedded Programming](https://img.shields.io/badge/-Embedded-555?style=flat&logo=c&logoColor=white)
+![Autonomous Systems](https://img.shields.io/badge/-Autonomous%20Systems-555?style=flat)
+![Control Systems](https://img.shields.io/badge/-Control%20Systems-555?style=flat)
+
+**Tools & Technologies**  
+![OpenCV](https://img.shields.io/badge/-OpenCV-555?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-555?style=flat&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-555?style=flat&logo=three.js&logoColor=white)
 
 **Engineering Practices**  
 ![OOP](https://img.shields.io/badge/-OOP-555?style=flat)
-![Functional Programming](https://img.shields.io/badge/-Functional%20Programming-555?style=flat)
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-555?style=flat)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-555?style=flat&logo=postman&logoColor=white)
 ![Modular Design](https://img.shields.io/badge/-Modular%20Design-555?style=flat)
 ![Documentation](https://img.shields.io/badge/-Documentation-555?style=flat&logo=read-the-docs&logoColor=white)
@@ -91,53 +107,196 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Experience
 
-### OSHSHAROHI BRACU — Co-Team Lead 
+### 🐍 [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Present)*
+**Remote**
+
+- Working on real-world projects involving automation, data handling, and problem solving using core Python concepts.
+- Strengthening practical skills in data structures, scripting, and applied programming.
+
+---
+
+### 🤖 [BRACU Duburi](https://www.facebook.com/bracuduburi/) — Junior Member (AI & Machine Vision) *(Mar 2025 – Present)*
+**BRAC University | Hybrid**
+
+- Developing advanced vision systems and intelligent algorithms enabling an **autonomous underwater vehicle (AUV)** to navigate complex aquatic environments, identify objects, and make real-time decisions.
+- Working with YOLO-based pipelines and OpenCV on the AI and Machine Vision sub-team.
+
+---
+
+### 🌐 [Projukti Lipi](https://github.com/Iamm3taphorical) — Co-Founder *(Aug 2025 – Present)*
+**Dhaka, Bangladesh**
+
+- Co-founded a student-led technology initiative promoting tech awareness and innovation among students.
+- Leading projects, community engagement, managing events and partnerships, and shaping engineering goals.
+- Overseeing operational and HR strategy while contributing to technical direction and streamlining workflows.
+
+---
+
+### 🔬 [IEEE Computer Society Bangladesh Chapter](https://ieeebd.org/) — Research Team Member *(2025 – 2026)*
+**SECRETARIAT EXCOM 2025 | Hybrid**
+
+- Selected for a national-level research and leadership role under the IEEE CS Bangladesh Chapter.
+- Contributing to technical documentation, collaborative research, and innovation initiatives aligned with IEEE standards.
+- Worked with a diverse executive team to support knowledge dissemination and large-scale technical programs.
+
+---
+
+### 💻 [BRAC University Computer Club (BUCC)](https://www.facebook.com/bracubucc/) — Senior Executive of Human Resources *(May 2026 – Present)*
+**Dhaka, Bangladesh**
+
+- Managing member engagement, recruitment, and team coordination within the club.
+- Previously served as **General Member of HR** (2024 – May 2025).
+
+---
+
+### ⚙️ [Robotics Club of BRAC University – ROBU](https://www.facebook.com/RoboticsClubOfBracUniversity/) — Apprentice, HR Department *(Jun 2025 – Present)*
+**Dhaka, Bangladesh**
+
+- Supporting innovation-focused robotics projects by streamlining HR operations and promoting effective collaboration.
+- Previously served as **General Member of HR** (Jun 2024 – Jun 2025).
+
+---
+
+### 🛰️ Former Co-Team Lead — [OSHSHAROHI BRACU](https://www.facebook.com/OshsharohiBRACU/)
 **BRAC University**
 
-- Led cross-division technical coordination across vehicle subsystems, aligning engineering workflows, timelines, and deliverables to ensure system-level integration and competition readiness.  
+- Led cross-division technical coordination across vehicle subsystems, aligning engineering workflows, timelines, and deliverables to ensure system-level integration and competition readiness.
 - Drove leadership-level operational planning, risk mitigation, and decision-making to maintain sustained performance across engineering and management units.
 
-### IEEE Computer Society Bangladesh Chapter — Research Team Member  
-**SECRETARIAT EXCOM 2025**  
-Contributing to research-oriented initiatives, collaborative technical studies, documentation, and coordination under the IEEE Computer Society Bangladesh Chapter as part of the 2025 Secretariat Executive Committee.
+---
 
-### Projukti Lipi — Co-Founder (2025 – Present)  
-Co-founded a student-led technology initiative focused on awareness, project execution, strategic partnerships, and community-driven innovation.
+### 🦾 Former Junior Member — [BRACU Alter](https://www.facebook.com/bracualter/) (AI & Control Systems) *(Apr 2025 – Dec 2025)*
+**Hybrid**
 
-### BRACU Duburi — Team Member (Machine Vision & AI) (2025 – Present)  
-Working on machine vision and AI subsystems for an **autonomous underwater vehicle (AUV)**, including object detection, navigation logic, and real-time decision pipelines.
+- Worked on the AI & Controls sub-team of BRAC University's official rescue robotics team under LASSET.
+- Gained hands-on experience with ROS, simulated control/navigation in Gazebo, developed **computer vision pipelines using OpenCV**, and trained **YOLOv8 models** for real-time detection.
+- Explored the intersection of classical control theory and machine learning for autonomous systems in post-disaster scenarios.
 
-### Former Team Member — BRACU Alter (Control & AI)  
-Contributed to autonomous rescue rover systems with a focus on **control theory, system modeling, stability analysis, and AI-based navigation modules**.
+---
 
-### Former Team Member — BRACU Diganta (Avionics)  
-Developed avionics and embedded software for **UAV platforms**, including sensor integration, communication modules, and flight-data handling.
+### ✈️ Former Junior Member — [BRACU Diganta](https://www.facebook.com/bracudiganta/) (Avionics Systems) *(2025)*
+**Dhaka, Bangladesh**
 
-### Robotics Club of BRAC University (ROBU) — Apprentice (2024 – Present)  
-Supported robotics initiatives through HR operations, team coordination, and cross-team collaboration, alongside hands-on prototyping and testing.
+- Learned avionics systems and embedded programming, working on sensor integration, communication modules, and flight data handling for UAVs.
 
-### BRAC University Computer Club (BUCC) — Executive (2024 – Present)  
-Organised workshops, coding sessions, and internal projects while assisting with community growth and member engagement.
+---
 
-### IEEE BRACU Student Branch  (2024 – Present)  
-Participated in technical events, research initiatives, and structured knowledge-sharing programs.
+### 🌐 [IEEE BRACU Student Branch](https://www.ieee.org/) — General Member *(2024 – Present)*
+**Dhaka, Bangladesh**
 
-### Mohammadpur Government College Science Club — HR & Strategic Planner (2021 – 2022)  
-Led member engagement strategies and organised science and technology outreach programs.
+- Participating in technical events, research initiatives, and structured knowledge-sharing programs.
+- Encouraged student research collaboration through various initiatives.
 
+---
+
+### 🧪 Mohammadpur Government College Science Club — HR & Strategic Planner *(2021 – 2022)*
+
+- Led member engagement strategies and organised science and technology outreach programs.
+
+---
+
+## 🚀 Projects
+
+### 🤟 [SignTutor 1.0](https://github.com/Iamm3taphorical) — AI-Powered ASL Tutor
+- Developed a real-time sign language tutoring system using **computer vision and AI**.
+- Integrated webcam input with **Gemini-based feedback** for corrective, privacy-first learning.
+- Technical write-up [published on Kaggle](https://www.kaggle.com/).
+
+### 🧠 [CodeApproach Advisor](https://github.com/Iamm3taphorical) — AI Coding Strategy Tool
+- Built an AI-powered assistant that suggests optimal problem-solving approaches for coding tasks.
+- Leverages LLM-based reasoning to guide developers in selecting efficient algorithms and strategies.
+
+### 💼 [Freelance Pro](https://github.com/Iamm3taphorical) — Project Management System
+- Built a full-stack dashboard using **Next.js, TypeScript, Tailwind CSS, and MySQL**.
+- Designed modules for client management, payment tracking, and advanced analytics reporting.
+
+### 🎓 [Smart Attendance and Identity System](https://github.com/Iamm3taphorical)
+- Developed a **face recognition-based attendance system** with privacy-focused design.
+- Implemented identity tracking and scalable architecture for campus-level deployment.
+
+### 📈 [DSE Smart Analytics](https://github.com/Iamm3taphorical)
+- Engineered a stock analysis and portfolio management platform for DSE investors.
+- Integrated simulated real-time data, technical indicators, and AI-driven insights.
+
+### 🌐 [My Portfolio Website](https://github.com/Iamm3taphorical)
+- Developed a modern portfolio using **Next.js, TypeScript, Tailwind CSS, and Three.js**.
+- Designed interactive UI components and **3D elements** to enhance user engagement.
+
+### 🎯 [Real-Time Object Detection System](https://github.com/Iamm3taphorical) — YOLOv8
+- Developed a real-time detection system supporting webcam, video, and image streams.
+- Engineered a modular CLI-based application for flexible deployment and testing.
+
+### 🔍 [Object Detection Pipeline](https://github.com/Iamm3taphorical) — YOLOv8 + Image Processing
+- Built a scalable image-processing pipeline using **YOLOv8** with batch processing support.
+- Implemented configurable thresholds, labeled outputs, and visualization grids.
+
+### 🍾 [Bottle Detection System](https://github.com/Iamm3taphorical) — YOLOv8 + OpenCV
+- Designed a beginner-friendly computer vision pipeline for detecting bottles in images.
+- Integrated **YOLOv8, OpenCV, and Matplotlib** to visualize bounding boxes and detection outputs.
+
+### 📋 [Fragment](https://github.com/Iamm3taphorical) — Code Snippet Manager
+- Built a local-first desktop application using **Electron + HTML/CSS/JS**.
+- Implemented multi-language syntax highlighting and efficient snippet organization.
+
+### 📱 [InstaBreaker](https://github.com/Iamm3taphorical) — Social Media Automation Tool
+- Built an automation tool using **Python and instagrapi** for managing Instagram interactions.
+- Explored API handling, automation workflows, and rate-limiting considerations.
+
+### 🧮 [Smart Calc](https://github.com/Iamm3taphorical)
+- Developed a browser-based calculator using **TypeScript, JavaScript, and CSS**.
+- Implemented responsive UI and core arithmetic logic to strengthen frontend fundamentals.
+
+---
+
+## 🏆 Awards & Publications
+
+- 🥇 **Top 8 Finalist — [AI Hackathon 2025](https://github.com/Iamm3taphorical):** Built an AI Flood Management System (AFMS) with Team Null_Pointers_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
+- 🤖 **Participant — [National Robotics Championship (NRC)](https://github.com/Iamm3taphorical)**
+- 🏁 **Participant — [Traction Obhyudoy Robotics Competition](https://github.com/Iamm3taphorical):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organized by the Robotics Club of BRAC University.
+- 📝 **Published Author — [BUCC SyncUp (April 2026)](https://github.com/Iamm3taphorical):** Article titled *"AI vs AI: The Future of Cyber Defence"*, exploring the evolving landscape of cybersecurity where AI serves as both attacker and defender.
+- 📄 **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/):** Real-time, privacy-first ASL tutoring using webcam computer vision + Gemini for corrective, actionable feedback.
+
+---
+
+## 📜 Certificates
+
+<details>
+<summary>Click to expand certifications</summary>
+
+| Certificate | Issuer |
+|---|---|
+| [AWS Educate Machine Learning Foundations](https://aws.amazon.com/education/awseducate/) | AWS |
+| [Introduction to Cybersecurity](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccst/cybersecurity.html) | Cisco |
+| [Introducing Generative AI with AWS](https://www.udacity.com/) | Udacity / AWS |
+| [Introduction to Python](https://www.datacamp.com/) | DataCamp |
+| [Introduction to SQL](https://www.datacamp.com/) | DataCamp |
+| [The Ultimate Java Programming Course](https://www.udemy.com/) | Udemy |
+| [HTML & CSS Web Projects Workshop](https://www.udemy.com/) | Udemy |
+| [C# Basics: From Zero to First Applications](https://www.udemy.com/) | Udemy |
+| [Full Stack Web Development Crash Course](https://www.udemy.com/) | Udemy |
+| [Complete JavaScript Programming](https://www.udemy.com/) | Udemy |
+| [Agentic Coding with AI Tools](https://www.udemy.com/) | Udemy |
+| [Python Web Developer Masterclass](https://www.udemy.com/) | Udemy |
+| [Quantum Computing with Microsoft Azure](https://www.udemy.com/) | Udemy |
+| MERN Stack Development Workshop | — |
+| Agent X – AI Prompting Competition (Step 1) | Agent X |
+| AI+ Foundation Certification | Agent X |
+| Agent X Progress Milestone | Agent X |
+
+</details>
 
 ---
 
 ## 🚀 Current Focus
 
-- **Data Structures & Algorithms (Java):** production-grade implementations with structured documentation  
-- **Computer Vision:** YOLO + OpenCV pipelines for robotics applications  
-- **Robotics Systems Integration:** sensor fusion, control loops, and real-time pipelines  
-- **Full-Stack Development:** dashboards, portfolio systems, and deployment fundamentals  
-- **Competitive Programming:** Codeforces, LeetCode, HackerRank  
-- **Engineering Practices:** testing, CI/CD, modular architecture  
+- **Data Structures & Algorithms (Java):** production-grade implementations with structured documentation
+- **Computer Vision:** YOLO + OpenCV pipelines for robotics applications
+- **Robotics Systems Integration:** sensor fusion, control loops, and real-time pipelines
+- **Full-Stack Development:** dashboards, portfolio systems, and deployment fundamentals
+- **Competitive Programming:** [Codeforces](https://codeforces.com/profile/mahir.dyan), [LeetCode](https://leetcode.com/u/gnkF6xnyA4/), [HackerRank](https://www.hackerrank.com/profile/mahir_dyan)
+- **Engineering Practices:** testing, CI/CD, modular architecture
 - **Open Source & Teaching:** well-documented learning repositories
 
 ---
@@ -175,20 +334,15 @@ Led member engagement strategies and organised science and technology outreach p
 
 ---
 
-## 🏆 Awards & Competitions
-- Top 8 Finalist — AI Hackathon  
-- Participant — National Robotics Championship (NRC)  
-- Participant — Traction অভ্যুদয় (National Robotics Competition)
+## 📫 Let's Collaborate
 
----
-
-## 📫 Let’s Collaborate
 Open to collaboration on **robotics, AI systems, research, and full-stack software projects**.
+
+📧 [mahirdyan30@gmail.com](mailto:mahirdyan30@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mahir-dyan-47b396310/) · 🐙 [GitHub](https://github.com/Iamm3taphorical)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iamm3taphorical&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg" />
@@ -250,4 +404,3 @@ Open to collaboration on **robotics, AI systems, research, and full-stack softwa
 | 2 | [@Al-Saihan](https://github.com/Al-Saihan) |
 
 <!-- CHESS_END -->
-
