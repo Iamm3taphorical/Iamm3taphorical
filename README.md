@@ -60,8 +60,11 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 ![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-555?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-555?style=flat&logo=sqlite&logoColor=white)
 
 **AI & Machine Learning**  
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20(YOLOv8)-555?style=flat&logo=opencv&logoColor=white)
