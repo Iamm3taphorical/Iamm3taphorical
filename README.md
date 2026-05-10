@@ -304,32 +304,32 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 ## GitHub Stats & Activity
 
 <table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/Iamm3taphorical">
-                <img src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight&include_all_commits=true" alt="My GitHub Stats"/>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/Iamm3taphorical">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&theme=tokyonight&layout=compact&langs_count=8" alt="My Top Languages"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/Iamm3taphorical">
-                <img src="https://streak-stats.demolab.com?user=Iamm3taphorical&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/Iamm3taphorical">
-                <img src="https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-            </a>
-        </td>
-    </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Iamm3taphorical">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iamm3taphorical&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Iamm3taphorical">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamm3taphorical&layout=compact&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/Iamm3taphorical">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamm3taphorical&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/output/github-contribution-grid-snake-dark.svg" />
+    </td>
+  </tr>
 </table>
 
 ---
