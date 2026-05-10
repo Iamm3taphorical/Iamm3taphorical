@@ -32,7 +32,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Science & Engineering student** at **[BRAC University](https://www.bracu.ac.bd/) (Dhaka, Bangladesh)** with a strong interest in **software engineering, robotics, automation, and AI-driven systems**.
 
@@ -43,7 +43,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java&logoColor=white)
@@ -98,9 +98,9 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🐍 [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
+### [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
 **Remote**
 
 - Worked on real-world projects involving automation, data handling, and problem solving using core Python concepts.
@@ -108,7 +108,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🤖 [BRACU Duburi](https://bracuduburi.com/) — Junior Member (AI & Machine Vision) *(Mar 2025 – Present)*
+### [BRACU Duburi](https://bracuduburi.com/) — Junior Member (AI & Machine Vision) *(Mar 2025 – Present)*
 **BRAC University | Hybrid**
 
 - Developing advanced vision systems and intelligent algorithms enabling an **autonomous underwater vehicle (AUV)** to navigate complex aquatic environments, identify objects, and make real-time decisions.
@@ -116,7 +116,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🌐 Projukti Lipi — Co-Founder *(Aug 2025 – Present)*
+### Projukti Lipi — Co-Founder *(Aug 2025 – Present)*
 **Dhaka, Bangladesh**
 
 - Co-founded a student-led technology initiative promoting tech awareness and innovation among students.
@@ -125,7 +125,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🔬 [IEEE Computer Society Bangladesh Chapter](https://ieeecsbdc.org/Sacretariat-25) — Research Team Member *(2025 – 2026)*
+### [IEEE Computer Society Bangladesh Chapter](https://ieeecsbdc.org/Sacretariat-25) — Research Team Member *(2025 – 2026)*
 **SECRETARIAT EXCOM 2025 | Hybrid**
 
 - Selected for a national-level research and leadership role under the IEEE CS Bangladesh Chapter.
@@ -134,7 +134,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 💻 [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of Human Resources *(May 2026 – Present)*
+### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of Human Resources *(May 2026 – Present)*
 **Dhaka, Bangladesh**
 
 - Managing member engagement, recruitment, and team coordination within the club.
@@ -142,7 +142,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### ⚙️ [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Apprentice, HR Department *(Jun 2025 – Present)*
+### [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Apprentice, HR Department *(Jun 2025 – Present)*
 **Dhaka, Bangladesh**
 
 - Supporting innovation-focused robotics projects by streamlining HR operations and promoting effective collaboration.
@@ -150,7 +150,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🛰️ Former Co-Team Lead — [OSHSHAROHI BRACU](https://oshsharohi.netlify.app/)
+### Former Co-Team Lead — [OSHSHAROHI BRACU](https://oshsharohi.netlify.app/)
 **BRAC University**
 
 - Led cross-division technical coordination across vehicle subsystems, aligning engineering workflows, timelines, and deliverables to ensure system-level integration and competition readiness.
@@ -158,7 +158,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🦾 Former Junior Member — [BRACU Alter](https://www.facebook.com/profile.php?id=61557795005542) (AI & Control Systems) *(Apr 2025 – Dec 2025)*
+### Former Junior Member — [BRACU Alter](https://www.facebook.com/profile.php?id=61557795005542) (AI & Control Systems) *(Apr 2025 – Dec 2025)*
 **Hybrid**
 
 - Worked on the AI & Controls sub-team of BRAC University's official rescue robotics team under LASSET.
@@ -167,14 +167,14 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### ✈️ Former Junior Member — [BRACU Diganta](https://www.facebook.com/profile.php?id=61574161791951) (Avionics Systems) *(2025)*
+### Former Junior Member — [BRACU Diganta](https://www.facebook.com/profile.php?id=61574161791951) (Avionics Systems) *(2025)*
 **Dhaka, Bangladesh**
 
 - Learned avionics systems and embedded programming, working on sensor integration, communication modules, and flight data handling for UAVs.
 
 ---
 
-### 🌐 [IEEE BRACU Student Branch](https://ieeebracu.com/) — General Member *(2024 – Present)*
+### [IEEE BRACU Student Branch](https://ieeebracu.com/) — General Member *(2024 – Present)*
 **Dhaka, Bangladesh**
 
 - Participating in technical events, research initiatives, and structured knowledge-sharing programs.
@@ -182,76 +182,76 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### 🧪 Mohammadpur Government College Science Club — HR & Strategic Planner *(2021 – 2022)*
+### Mohammadpur Government College Science Club — HR & Strategic Planner *(2021 – 2022)*
 
 - Led member engagement strategies and organised science and technology outreach programs.
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🤟 [SignTutor 1.0](https://github.com/Iamm3taphorical/SignTutor-1.0) — AI-Powered ASL Tutor
+### [SignTutor 1.0](https://github.com/Iamm3taphorical/SignTutor-1.0) — AI-Powered ASL Tutor
 - Developed a real-time sign language tutoring system using **computer vision and AI**.
 - Integrated webcam input with **Gemini-based feedback** for corrective, privacy-first learning.
 - Technical write-up [published on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488).
 
-### 🧠 [CodeApproach Advisor](https://partyrock.aws/u/iamm3taphorical/oWvzUJXiY/CodeApproach-Advisor) — AI Coding Strategy Tool
+### [CodeApproach Advisor](https://partyrock.aws/u/iamm3taphorical/oWvzUJXiY/CodeApproach-Advisor) — AI Coding Strategy Tool
 - Built an AI-powered assistant that suggests optimal problem-solving approaches for coding tasks.
 - Leverages LLM-based reasoning to guide developers in selecting efficient algorithms and strategies.
 
-### 💼 [Freelance Pro](https://github.com/Iamm3taphorical/Freelance-Pro) — Project Management System
+### [Freelance Pro](https://github.com/Iamm3taphorical/Freelance-Pro) — Project Management System
 - Built a full-stack dashboard using **Next.js, TypeScript, Tailwind CSS, and MySQL**.
 - Designed modules for client management, payment tracking, and advanced analytics reporting.
 
-### 🎓 [Smart Attendance and Identity System](https://github.com/Iamm3taphorical/smart-attendance-system)
+### [Smart Attendance and Identity System](https://github.com/Iamm3taphorical/smart-attendance-system)
 - Developed a **face recognition-based attendance system** with privacy-focused design.
 - Implemented identity tracking and scalable architecture for campus-level deployment.
 
-### 📈 [DSE Smart Analytics](https://github.com/Iamm3taphorical/DSE-Smart-Analytics)
+### [DSE Smart Analytics](https://github.com/Iamm3taphorical/DSE-Smart-Analytics)
 - Engineered a stock analysis and portfolio management platform for DSE investors.
 - Integrated simulated real-time data, technical indicators, and AI-driven insights.
 
-### 🌐 [My Portfolio Website](https://iamm3taphorical.github.io/)
+### [My Portfolio Website](https://iamm3taphorical.github.io/)
 - Developed a modern portfolio using **Next.js, TypeScript, Tailwind CSS, and Three.js**.
 - Designed interactive UI components and **3D elements** to enhance user engagement.
 
-### 🎯 [Real-Time Object Detection System](https://github.com/Iamm3taphorical/object-detection) — YOLOv8
+### [Real-Time Object Detection System](https://github.com/Iamm3taphorical/object-detection) — YOLOv8
 - Developed a real-time detection system supporting webcam, video, and image streams.
 - Engineered a modular CLI-based application for flexible deployment and testing.
 
-### 🔍 [Object Detection Pipeline](https://github.com/Iamm3taphorical/Object-Detection-using-YOLOv8) — YOLOv8 + Image Processing
+### [Object Detection Pipeline](https://github.com/Iamm3taphorical/Object-Detection-using-YOLOv8) — YOLOv8 + Image Processing
 - Built a scalable image-processing pipeline using **YOLOv8** with batch processing support.
 - Implemented configurable thresholds, labeled outputs, and visualization grids.
 
-### 🍾 [Bottle Detection System](https://github.com/Iamm3taphorical/yolo-opencv-bottle-detection) — YOLOv8 + OpenCV
+### [Bottle Detection System](https://github.com/Iamm3taphorical/yolo-opencv-bottle-detection) — YOLOv8 + OpenCV
 - Designed a beginner-friendly computer vision pipeline for detecting bottles in images.
 - Integrated **YOLOv8, OpenCV, and Matplotlib** to visualize bounding boxes and detection outputs.
 
-### 📋 [Fragment](https://github.com/Iamm3taphorical/fragment) — Code Snippet Manager
+### [Fragment](https://github.com/Iamm3taphorical/fragment) — Code Snippet Manager
 - Built a local-first desktop application using **Electron + HTML/CSS/JS**.
 - Implemented multi-language syntax highlighting and efficient snippet organization.
 
-### 📱 [InstaBreaker](https://github.com/Iamm3taphorical/InstaBreaker) — Social Media Automation Tool
+### [InstaBreaker](https://github.com/Iamm3taphorical/InstaBreaker) — Social Media Automation Tool
 - Built an automation tool using **Python and instagrapi** for managing Instagram interactions.
 - Explored API handling, automation workflows, and rate-limiting considerations.
 
-### 🧮 [Smart Calc](https://github.com/Iamm3taphorical/smart-calc)
+### [Smart Calc](https://github.com/Iamm3taphorical/smart-calc)
 - Developed a browser-based calculator using **TypeScript, JavaScript, and CSS**.
 - Implemented responsive UI and core arithmetic logic to strengthen frontend fundamentals.
 
 ---
 
-## 🏆 Awards & Publications
+## Awards & Publications
 
-- 🥇 **Top 8 Finalist — [AI Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:activity:7383522576943468545/):** Built an AI Flood Management System (AFMS) with Team Null_Pointers_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
-- 🤖 **[Participant — National Robotics Championship (NRC)](https://www.linkedin.com/feed/update/urn:li:activity:7294717626667139074/)**
-- 🏁 **[Participant — Traction Obhyudoy Robotics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7303056970465378306/):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organized by the Robotics Club of BRAC University.
-- 📝 **Published Author — [BUCC SyncUp (April 2026)](https://bucc-syncup.beehiiv.com/p/bucc-syncup-april-2026):** Article titled *"AI vs AI: The Future of Cyber Defence"*, exploring the evolving landscape of cybersecurity where AI serves as both attacker and defender.
-- 📄 **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488):** Real-time, privacy-first ASL tutoring using webcam computer vision + Gemini for corrective, actionable feedback.
+- **Top 8 Finalist — [AI Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:activity:7383522576943468545/):** Built an AI Flood Management System (AFMS) with Team Null_Pointers_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
+- **[Participant — National Robotics Championship (NRC)](https://www.linkedin.com/feed/update/urn:li:activity:7294717626667139074/)**
+- **[Participant — Traction Obhyudoy Robotics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7303056970465378306/):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organized by the Robotics Club of BRAC University.
+- **Published Author — [BUCC SyncUp (April 2026)](https://bucc-syncup.beehiiv.com/p/bucc-syncup-april-2026):** Article titled *"AI vs AI: The Future of Cyber Defence"*, exploring the evolving landscape of cybersecurity where AI serves as both attacker and defender.
+- **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488):** Real-time, privacy-first ASL tutoring using webcam computer vision + Gemini for corrective, actionable feedback.
 
 ---
 
-## 📜 Certificates
+## Certificates
 
 <details>
 <summary>Click to expand certifications</summary>
@@ -280,7 +280,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - **Data Structures & Algorithms (Java):** production-grade implementations with structured documentation
 - **Computer Vision:** YOLO + OpenCV pipelines for robotics applications
@@ -292,7 +292,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <table>
     <tr>
@@ -325,11 +325,11 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-## 📫 Let's Collaborate
+## Let's Collaborate
 
 Open to collaboration on **robotics, AI systems, research, and full-stack software projects**.
 
-📧 [mahirdyan30@gmail.com](mailto:mahirdyan30@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/mahir-dyan-47b396310/) · 🐙 [GitHub](https://github.com/Iamm3taphorical) · 🌐 [Portfolio](https://iamm3taphorical.github.io/)
+[mahirdyan30@gmail.com](mailto:mahirdyan30@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahir-dyan-47b396310/) · [GitHub](https://github.com/Iamm3taphorical) · [Portfolio](https://iamm3taphorical.github.io/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iamm3taphorical&label=Profile+Views&color=0e75b6&style=flat" />
