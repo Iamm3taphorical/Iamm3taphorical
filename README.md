@@ -13,27 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Iamm3taphorical" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" alt="GitHub" />
-  </a>
-  <a href="https://codeforces.com/profile/mahir.dyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank" />
-  </a>
-  <a href="mailto:mahirdyan30@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" alt="Gmail" />
-  </a>
-  <a href="https://iamm3taphorical.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-555?style=flat&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn" /></a><a href="https://github.com/Iamm3taphorical" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" alt="GitHub" /></a><a href="https://codeforces.com/profile/mahir.dyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces" /></a><a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" alt="LeetCode" /></a><a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank" /></a><a href="mailto:mahirdyan30@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" alt="Gmail" /></a><a href="https://iamm3taphorical.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-555?style=flat&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" /></a>
 </div>
 
 ---
