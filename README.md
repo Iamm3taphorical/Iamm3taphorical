@@ -138,7 +138,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 **Dhaka, Bangladesh**
 
 - Managing member engagement, recruitment, and team coordination within the club.
-- Previously served as **General Member of HR** (2024 – May 2025).
+- Previously served as **General Member and Executive of HR** (2024 – May 2025).
 
 ---
 
