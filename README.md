@@ -48,8 +48,11 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 **Programming Languages**  
 ![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-555?style=flat&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-555?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go&logoColor=white)
 
 **Web & Backend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5&logoColor=white)
@@ -85,6 +88,9 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-555?style=flat&logo=tailwindcss&logoColor=white)
 ![Three.js](https://img.shields.io/badge/-Three.js-555?style=flat&logo=three.js&logoColor=white)
+![CVAT](https://img.shields.io/badge/-CVAT-555?style=flat&logo=cvat&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes&logoColor=white)
 
 **Engineering Practices**  
 ![OOP](https://img.shields.io/badge/-OOP-555?style=flat)
