@@ -129,7 +129,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 **Dhaka, Bangladesh**
 
 - Co-founded a student-led technology initiative promoting tech awareness and innovation among students.
-- Leading projects, community engagement, managing events and partnerships, and shaping engineering goals.
+- Leading projects, community engagement, managing events and partnerships, and shaping engineering goals and projects.
 - Overseeing operational and HR strategy while contributing to technical direction and streamlining workflows.
 
 ---
