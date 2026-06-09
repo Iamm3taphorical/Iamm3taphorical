@@ -1,28 +1,37 @@
-<h1 align="center">
-  👋 Hello, I'm Mahir Dyan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
-</h1>
+<h1 align="center">Mahir Dyan</h1>
 
 <p align="center">
   <a href="https://github.com/Iamm3taphorical">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03A062&center=true&vCenter=true&width=680&lines=Computer+Science+%26+Engineering+Student;Robotics+%26+AI+Enthusiast;Software+Developer+%26+System+Builder;IEEE+Research+Team+Member;Always+Learning%2C+Building%2C+and+Sharing"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03A062&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Robotics+%26+AI+Enthusiast;Software+Developer+%26+System+Builder;IEEE+Research+Team+Member;AI+Data+Trainer+%40+SuperAnnotate;Always+Learning%2C+Building%2C+and+Shipping"
       alt="Typing SVG"
     />
   </a>
 </p>
 
-<div align="center">
-<table><tr>
-<td><a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="LinkedIn" /></a></td>
-<td><a href="https://github.com/Iamm3taphorical" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="35" alt="GitHub" /></a></td>
-<td><a href="https://codeforces.com/profile/mahir.dyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="60" height="35" alt="Codeforces" /></a></td>
-<td><a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="35" alt="LeetCode" /></a></td>
-<td><a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="60" height="35" alt="HackerRank" /></a></td>
-<td><a href="mailto:mahirdyan30@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="60" height="35" alt="Gmail" /></a></td>
-<td><a href="https://iamm3taphorical.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-555?style=flat&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" /></a></td>
-</tr></table>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahir-dyan-47b396310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Iamm3taphorical" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codeforces.com/profile/mahir.dyan" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/gnkF6xnyA4/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/mahir_dyan" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  </a>
+  <a href="mailto:mahirdyan30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://iamm3taphorical.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
@@ -34,80 +43,98 @@
 
 ## About Me
 
-I'm a **Computer Science & Engineering student** at **[BRAC University](https://www.bracu.ac.bd/) (Dhaka, Bangladesh)** with a strong interest in **software engineering, robotics, automation, and AI-driven systems**.
+I am a **Computer Science & Engineering student** at **[BRAC University](https://www.bracu.ac.bd/)** (Dhaka, Bangladesh) with a focused interest in **software engineering, robotics, embedded systems, and AI-driven applications**.
 
-I enjoy designing algorithms, building full-stack applications, and integrating  
-**machine vision, control systems, and embedded software** into real-world robotic platforms.
+I design algorithms, build full-stack products, and integrate **machine vision, control systems, and intelligent pipelines** into real-world platforms. From autonomous underwater vehicles to flood prediction systems, I gravitate toward engineering work that has tangible, real-world impact.
 
-My work philosophy emphasizes **clarity, collaboration, scalability, and real-world impact**.
+My approach centers on **clarity, modularity, collaboration, and long-term scalability**.
 
 ---
 
 ## Skills & Technologies
 
-**Programming Languages**  
-![Java](https://img.shields.io/badge/-Java-555?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-555?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-555?style=flat&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-555?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-555?style=flat&logo=go&logoColor=white)
+**Programming Languages**
 
-**Web & Backend**  
-![HTML5](https://img.shields.io/badge/-HTML5-555?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-555?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-555?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-555?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-555?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-555?style=flat&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-555?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-555?style=flat&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-555?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-555?style=flat&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**AI & Machine Learning**  
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision%20(YOLOv8)-555?style=flat&logo=opencv&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-555?style=flat&logo=openai&logoColor=white)
-![ML Pipelines](https://img.shields.io/badge/-ML%20Pipelines-555?style=flat&logo=scikitlearn&logoColor=white)
+**Web & Backend**
 
-**Robotics & Embedded Systems**  
-![ROS](https://img.shields.io/badge/-ROS%20(Learning)-555?style=flat&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-555?style=flat&logo=arduino&logoColor=white)
-![Embedded Programming](https://img.shields.io/badge/-Embedded-555?style=flat&logo=c&logoColor=white)
-![Autonomous Systems](https://img.shields.io/badge/-Autonomous%20Systems-555?style=flat)
-![Control Systems](https://img.shields.io/badge/-Control%20Systems-555?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Technologies**  
-![OpenCV](https://img.shields.io/badge/-OpenCV-555?style=flat&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-555?style=flat&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-555?style=flat&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-555?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-555?style=flat&logo=three.js&logoColor=white)
-![CVAT](https://img.shields.io/badge/-CVAT-555?style=flat&logo=cvat&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=kubernetes&logoColor=white)
+**AI & Machine Learning**
 
-**Engineering Practices**  
-![OOP](https://img.shields.io/badge/-OOP-555?style=flat)
-![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-555?style=flat)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-555?style=flat&logo=postman&logoColor=white)
-![Modular Design](https://img.shields.io/badge/-Modular%20Design-555?style=flat)
-![Documentation](https://img.shields.io/badge/-Documentation-555?style=flat&logo=read-the-docs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=opencv&logoColor=black)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Soft Skills**  
-![Leadership](https://img.shields.io/badge/-Leadership-555?style=flat)
-![Team Coordination](https://img.shields.io/badge/-Team%20Coordination-555?style=flat)
-![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-555?style=flat)
-![Community Management](https://img.shields.io/badge/-Community%20Management-555?style=flat)
+**Robotics & Embedded Systems**
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo_Sim-orange?style=flat-square&logo=ros&logoColor=white)
+![Control Systems](https://img.shields.io/badge/Control%20Systems-555?style=flat-square)
+![Autonomous Systems](https://img.shields.io/badge/Autonomous%20Systems-555?style=flat-square)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![CVAT](https://img.shields.io/badge/CVAT-1A73E8?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Engineering Practices**
+
+![OOP](https://img.shields.io/badge/OOP-555?style=flat-square)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-555?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-555?style=flat-square)
+![Modular Design](https://img.shields.io/badge/Modular%20Design-555?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-555?style=flat-square)
+![Documentation](https://img.shields.io/badge/Technical%20Documentation-555?style=flat-square)
+
+**Soft Skills**
+
+![Leadership](https://img.shields.io/badge/Leadership-555?style=flat-square)
+![Team Coordination](https://img.shields.io/badge/Team%20Coordination-555?style=flat-square)
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-555?style=flat-square)
+![Community Management](https://img.shields.io/badge/Community%20Management-555?style=flat-square)
 
 ---
 
 ## Experience
+
+### [SME Careers by SuperAnnotate](https://sme.careers/) — Data Trainer *(Jun 2026 – Present)*
+**Remote**
+
+- Contributing to AI model training by reviewing AI-generated responses and producing high-quality reference solutions across technical domains.
+- Evaluating reasoning quality, accuracy, and adherence to task instructions; identifying methodological errors and crafting expert-level explanations to improve model outputs.
+- Working directly with leading AI companies and foundation model labs via SuperAnnotate's AI data services platform.
+
+---
 
 ### [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
 **Remote**
@@ -117,7 +144,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### [BRACU Duburi](https://bracuduburi.com/) — Junior Member (AI & Machine Vision) *(Mar 2025 – Present)*
+### [BRACU Duburi](https://bracuduburi.com/) — Junior Member, AI & Machine Vision *(Mar 2025 – Present)*
 **BRAC University | Hybrid**
 
 - Developing advanced vision systems and intelligent algorithms enabling an **autonomous underwater vehicle (AUV)** to navigate complex aquatic environments, identify objects, and make real-time decisions.
@@ -129,7 +156,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 **Dhaka, Bangladesh**
 
 - Co-founded a student-led technology initiative promoting tech awareness and innovation among students.
-- Leading projects, community engagement, managing events and partnerships, and shaping engineering goals and projects.
+- Leading projects, community engagement, managing events and partnerships, and shaping engineering goals.
 - Overseeing operational and HR strategy while contributing to technical direction and streamlining workflows.
 
 ---
@@ -167,16 +194,16 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 ---
 
-### Former Junior Member — [BRACU Alter](https://www.facebook.com/profile.php?id=61557795005542) (AI & Control Systems) *(Apr 2025 – Dec 2025)*
+### Former Junior Member — [BRACU Alter](https://www.facebook.com/profile.php?id=61557795005542), AI & Control Systems *(Apr 2025 – Dec 2025)*
 **Hybrid**
 
 - Worked on the AI & Controls sub-team of BRAC University's official rescue robotics team under LASSET.
-- Gained hands-on experience with ROS, simulated control/navigation in Gazebo, developed **computer vision pipelines using OpenCV**, and trained **YOLOv8 models** for real-time detection.
+- Gained hands-on experience with ROS and simulated control/navigation in Gazebo; developed **computer vision pipelines using OpenCV** and trained **YOLOv8 models** for real-time detection.
 - Explored the intersection of classical control theory and machine learning for autonomous systems in post-disaster scenarios.
 
 ---
 
-### Former Junior Member — [BRACU Diganta](https://www.facebook.com/profile.php?id=61574161791951) (Avionics Systems) *(2025)*
+### Former Junior Member — [BRACU Diganta](https://www.facebook.com/profile.php?id=61574161791951), Avionics Systems *(2025)*
 **Dhaka, Bangladesh**
 
 - Learned avionics systems and embedded programming, working on sensor integration, communication modules, and flight data handling for UAVs.
@@ -187,7 +214,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 **Dhaka, Bangladesh**
 
 - Participating in technical events, research initiatives, and structured knowledge-sharing programs.
-- Encouraged student research collaboration through various initiatives.
+- Contributed to student research collaboration across various initiatives.
 
 ---
 
@@ -200,70 +227,57 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 ## Projects
 
 ### [SignTutor 1.0](https://github.com/Iamm3taphorical/SignTutor-1.0) — AI-Powered ASL Tutor
-- Developed a real-time sign language tutoring system using **computer vision and AI**.
-- Integrated webcam input with **Gemini-based feedback** for corrective, privacy-first learning.
-- Technical write-up [published on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488).
+A real-time sign language tutoring system built with **computer vision and Gemini-based AI feedback**. Integrates webcam input for corrective, privacy-first ASL learning. Technical write-up [published on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488).
 
 ### [CodeApproach Advisor](https://partyrock.aws/u/iamm3taphorical/oWvzUJXiY/CodeApproach-Advisor) — AI Coding Strategy Tool
-- Built an AI-powered assistant that suggests optimal problem-solving approaches for coding tasks.
-- Leverages LLM-based reasoning to guide developers in selecting efficient algorithms and strategies.
+An AI-powered assistant that suggests optimal problem-solving approaches for coding tasks. Leverages LLM-based reasoning to guide developers in selecting efficient algorithms and strategies.
 
 ### [Freelance Pro](https://github.com/Iamm3taphorical/Freelance-Pro) — Project Management System
-- Built a full-stack dashboard using **Next.js, TypeScript, Tailwind CSS, and MySQL**.
-- Designed modules for client management, payment tracking, and advanced analytics reporting.
+A full-stack dashboard built with **Next.js, TypeScript, Tailwind CSS, and MySQL**, featuring modules for client management, payment tracking, and advanced analytics reporting.
 
 ### [Smart Attendance and Identity System](https://github.com/Iamm3taphorical/smart-attendance-system)
-- Developed a **face recognition-based attendance system** with privacy-focused design.
-- Implemented identity tracking and scalable architecture for campus-level deployment.
+A **face recognition-based attendance system** with privacy-focused design, identity tracking, and scalable architecture built for campus-level deployment.
 
 ### [DSE Smart Analytics](https://github.com/Iamm3taphorical/DSE-Smart-Analytics)
-- Engineered a stock analysis and portfolio management platform for DSE investors.
-- Integrated simulated real-time data, technical indicators, and AI-driven insights.
+A stock analysis and portfolio management platform for DSE investors, integrating simulated real-time data, technical indicators, and AI-driven insights.
 
 ### [My Portfolio Website](https://iamm3taphorical.github.io/)
-- Developed a modern portfolio using **Next.js, TypeScript, Tailwind CSS, and Three.js**.
-- Designed interactive UI components and **3D elements** to enhance user engagement.
+A modern portfolio built with **Next.js, TypeScript, Tailwind CSS, and Three.js**, featuring interactive UI components and 3D elements for enhanced user engagement.
 
 ### [Real-Time Object Detection System](https://github.com/Iamm3taphorical/object-detection) — YOLOv8
-- Developed a real-time detection system supporting webcam, video, and image streams.
-- Engineered a modular CLI-based application for flexible deployment and testing.
+A real-time detection system supporting webcam, video, and image streams. Engineered as a modular CLI-based application for flexible deployment and testing.
 
 ### [Object Detection Pipeline](https://github.com/Iamm3taphorical/Object-Detection-using-YOLOv8) — YOLOv8 + Image Processing
-- Built a scalable image-processing pipeline using **YOLOv8** with batch processing support.
-- Implemented configurable thresholds, labeled outputs, and visualization grids.
+A scalable image-processing pipeline using **YOLOv8** with batch processing support, configurable thresholds, labeled outputs, and visualization grids.
 
 ### [Bottle Detection System](https://github.com/Iamm3taphorical/yolo-opencv-bottle-detection) — YOLOv8 + OpenCV
-- Designed a beginner-friendly computer vision pipeline for detecting bottles in images.
-- Integrated **YOLOv8, OpenCV, and Matplotlib** to visualize bounding boxes and detection outputs.
+A beginner-friendly computer vision pipeline for detecting bottles in images, integrating **YOLOv8, OpenCV, and Matplotlib** to visualize bounding boxes and detection outputs.
 
 ### [Fragment](https://github.com/Iamm3taphorical/fragment) — Code Snippet Manager
-- Built a local-first desktop application using **Electron + HTML/CSS/JS**.
-- Implemented multi-language syntax highlighting and efficient snippet organization.
+A local-first desktop application built with **Electron + HTML/CSS/JS**, featuring multi-language syntax highlighting and efficient snippet organization.
 
 ### [InstaBreaker](https://github.com/Iamm3taphorical/InstaBreaker) — Social Media Automation Tool
-- Built an automation tool using **Python and instagrapi** for managing Instagram interactions.
-- Explored API handling, automation workflows, and rate-limiting considerations.
+An automation tool using **Python and instagrapi** for managing Instagram interactions, exploring API handling, automation workflows, and rate-limiting considerations.
 
 ### [Smart Calc](https://github.com/Iamm3taphorical/smart-calc)
-- Developed a browser-based calculator using **TypeScript, JavaScript, and CSS**.
-- Implemented responsive UI and core arithmetic logic to strengthen frontend fundamentals.
+A browser-based calculator built with **TypeScript, JavaScript, and CSS**, featuring a responsive UI and core arithmetic logic.
 
 ---
 
 ## Awards & Publications
 
-- **Top 8 Finalist — [AI Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:activity:7383522576943468545/):** Built an AI Flood Management System (AFMS) with Team Null_Pointers_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
+- **Top 8 Finalist — [AI Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:activity:7383522576943468545/):** Built an AI Flood Management System (AFMS) with Team Null\_Pointers\_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
 - **[Participant — National Robotics Championship (NRC)](https://www.linkedin.com/feed/update/urn:li:activity:7294717626667139074/)**
 - **[Participant — Traction Obhyudoy Robotics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7303056970465378306/):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organized by the Robotics Club of BRAC University.
 - **Published Author — [BUCC SyncUp (April 2026)](https://bucc-syncup.beehiiv.com/p/bucc-syncup-april-2026):** Article titled *"AI vs AI: The Future of Cyber Defence"*, exploring the evolving landscape of cybersecurity where AI serves as both attacker and defender.
-- **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488):** Real-time, privacy-first ASL tutoring using webcam computer vision + Gemini for corrective, actionable feedback.
+- **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488):** Real-time, privacy-first ASL tutoring using webcam computer vision and Gemini for corrective, actionable feedback.
 
 ---
 
 ## Certificates
 
 <details>
-<summary>Click to expand certifications</summary>
+<summary>View Certifications</summary>
 
 | Certificate | Issuer |
 |---|---|
@@ -295,13 +309,14 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 - **Computer Vision:** YOLO + OpenCV pipelines for robotics applications
 - **Robotics Systems Integration:** sensor fusion, control loops, and real-time pipelines
 - **Full-Stack Development:** dashboards, portfolio systems, and deployment fundamentals
-- **Competitive Programming:** [Codeforces](https://codeforces.com/profile/mahir.dyan), [LeetCode](https://leetcode.com/u/gnkF6xnyA4/), [HackerRank](https://www.hackerrank.com/profile/mahir_dyan)
+- **AI Training & Evaluation:** contributing to foundation model improvement via SME Careers / SuperAnnotate
+- **Competitive Programming:** [Codeforces](https://codeforces.com/profile/mahir.dyan) · [LeetCode](https://leetcode.com/u/gnkF6xnyA4/) · [HackerRank](https://www.hackerrank.com/profile/mahir_dyan)
 - **Engineering Practices:** testing, CI/CD, modular architecture
 - **Open Source & Teaching:** well-documented learning repositories
 
 ---
 
-## GitHub Stats & Activity
+## GitHub Stats
 
 <table>
   <tr>
@@ -316,7 +331,6 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/Iamm3taphorical">
@@ -324,7 +338,6 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <img src="https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/output/github-contribution-grid-snake-dark.svg" />
@@ -338,7 +351,7 @@ My work philosophy emphasizes **clarity, collaboration, scalability, and real-wo
 
 Open to collaboration on **robotics, AI systems, research, and full-stack software projects**.
 
-[mahirdyan30@gmail.com](mailto:mahirdyan30@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mahir-dyan-47b396310/) · [GitHub](https://github.com/Iamm3taphorical) · [Portfolio](https://iamm3taphorical.github.io/)
+[mahirdyan30@gmail.com](mailto:mahirdyan30@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mahir-dyan-47b396310/) &nbsp;·&nbsp; [GitHub](https://github.com/Iamm3taphorical) &nbsp;·&nbsp; [Portfolio](https://iamm3taphorical.github.io/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Iamm3taphorical&label=Profile+Views&color=0e75b6&style=flat" />
@@ -365,9 +378,9 @@ Open to collaboration on **robotics, AI systems, research, and full-stack softwa
 | 2 | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/blank.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/P.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/P.png) |
 | 1 | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/R.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/N.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/B.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/Q.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/K.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/B.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/N.png) | ![](https://raw.githubusercontent.com/Iamm3taphorical/Iamm3taphorical/main/chess_images/R.png) |
 
-#### **WHITE (hollow):** It's your move... to choose _where_ to move...
+#### **WHITE (hollow):** It's your move...
 
-| FROM | TO - _just click one of the links_ :) |
+| FROM | TO — click a link to make your move |
 | ---- | -- |
 | **A1** | [A2](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ca1a2%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ca1a3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [A4](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ca1a4%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **A5** | [A6](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ca5a6%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
@@ -383,7 +396,7 @@ Open to collaboration on **robotics, AI systems, research, and full-stack softwa
 | **G2** | [G3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cg2g3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [G4](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Cg2g4%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 | **H2** | [H3](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ch2h3%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H4](https://github.com/Iamm3taphorical/Iamm3taphorical/issues/new?title=chess%7Cmove%7Ch2h4%7C0&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
 
-**How this works:** When you click a link, it opens a GitHub Issue. Just push "Create New Issue". That triggers a workflow that updates this board.
+**How this works:** Click a link to open a GitHub Issue, then press "Create New Issue." That triggers a workflow that updates the board automatically.
 
 **Last few moves, this game**
 
