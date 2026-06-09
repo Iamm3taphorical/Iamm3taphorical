@@ -298,6 +298,7 @@ A browser-based calculator built with **TypeScript, JavaScript, and CSS**, featu
 | [Agent X – AI Prompting Competition (Step 1)](https://www.linkedin.com/feed/update/urn:li:activity:7338879893365026816/) | Agent X |
 | [AI+ Foundation Certification](https://www.linkedin.com/feed/update/urn:li:activity:7340074096891777024/) | Agent X |
 | [Agent X Progress Milestone](https://www.linkedin.com/feed/update/urn:li:activity:7344077871314821122/) | Agent X |
+| [AWS AI Practitioner Challenge](https://www.udacity.com/certificate/e/9cadaf1e-27d7-11f1-94a3-ebf91126d6f9) | Udacity / AWS |
 
 </details>
 
