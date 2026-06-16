@@ -170,7 +170,7 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
-### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of Human Resources *(May 2026 – Present)*
+### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of  Research and Development Department *(June 2026 – Present)*
 **Dhaka, Bangladesh**
 
 - Managing member engagement, recruitment, and team coordination within the club.
