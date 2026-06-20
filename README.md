@@ -127,7 +127,7 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ## Experience
 
-### [SME Careers by SuperAnnotate](https://sme.careers/) — Data Trainer *(Jun 2026 – Present)*
+### [SME Careers by SuperAnnotate](https://sme.careers/) — Data Annotator Trainee *(Jun 2026 – Present)*
 **Remote**
 
 - Contributing to AI model training by reviewing AI-generated responses and producing high-quality reference solutions across technical domains.
