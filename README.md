@@ -136,6 +136,15 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
+### [IEEE BRACU Student Branch](https://ieeebracu.com/) — Secretariat Associate of the IEEE BRAC University Student Branch Specialized Committee.
+ *(2026 – Present)*
+**Dhaka, Bangladesh**
+
+- Participating in technical events, research initiatives, and structured knowledge-sharing programs.
+- Contributed to student research collaboration across various initiatives.
+
+---
+
 ### [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
 **Remote**
 
@@ -178,7 +187,7 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
-### [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Apprentice, HR Department *(Jun 2025 – Present)*
+### [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Executive, HR Department *(Jun 2025 – Present)*
 **Dhaka, Bangladesh**
 
 - Supporting innovation-focused robotics projects by streamlining HR operations and promoting effective collaboration.
@@ -207,14 +216,6 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 **Dhaka, Bangladesh**
 
 - Learned avionics systems and embedded programming, working on sensor integration, communication modules, and flight data handling for UAVs.
-
----
-
-### [IEEE BRACU Student Branch](https://ieeebracu.com/) — General Member *(2024 – Present)*
-**Dhaka, Bangladesh**
-
-- Participating in technical events, research initiatives, and structured knowledge-sharing programs.
-- Contributed to student research collaboration across various initiatives.
 
 ---
 
