@@ -136,6 +136,14 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
+### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of  Research and Development Department *(June 2026 – Present)*
+**Dhaka, Bangladesh**
+
+- Managing member engagement, recruitment, and team coordination within the club.
+- Previously served as **General Member and Executive of HR** (2024 – May 2025).
+
+---
+
 ### [IEEE BRACU Student Branch](https://ieeebracu.com/) — Secretariat Associate of the IEEE BRAC University Student Branch Specialized Committee.
  *(2026 – Present)*
 **Dhaka, Bangladesh**
@@ -176,14 +184,6 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 - Selected for a national-level research and leadership role under the IEEE CS Bangladesh Chapter.
 - Contributing to technical documentation, collaborative research, and innovation initiatives aligned with IEEE standards.
 - Worked with a diverse executive team to support knowledge dissemination and large-scale technical programs.
-
----
-
-### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of  Research and Development Department *(June 2026 – Present)*
-**Dhaka, Bangladesh**
-
-- Managing member engagement, recruitment, and team coordination within the club.
-- Previously served as **General Member and Executive of HR** (2024 – May 2025).
 
 ---
 
