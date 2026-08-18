@@ -292,9 +292,10 @@ A browser-based calculator built with **TypeScript, JavaScript, and CSS**, featu
 
 ## Awards & Publications
 
+- **Best Game — [FootballVerse AI](https://lnkd.in/p/gie7B_4d):** Recognised as the **Best Game** among all entries created by the departments of the BRAC University Computer Club for showcase during the **BRAC University Club Fair – Summer 2026**.innovation, creativity, and technical excellence during the **BRAC University Club Fair- Summer 2026**.
 - **Top 8 Finalist — [AI Hackathon 2025](https://www.linkedin.com/feed/update/urn:li:activity:7383522576943468545/):** Built an AI Flood Management System (AFMS) with Team Null\_Pointers\_V3 — predicts floods, sends early SMS alerts, and helps communities prepare before disaster strikes.
 - **[Participant — National Robotics Championship (NRC)](https://www.linkedin.com/feed/update/urn:li:activity:7294717626667139074/)**
-- **[Participant — Traction Obhyudoy Robotics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7303056970465378306/):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organized by the Robotics Club of BRAC University.
+- **[Participant — Traction Obhyudoy Robotics Competition](https://www.linkedin.com/feed/update/urn:li:activity:7303056970465378306/):** Competed in Prompt Engineering and Pathfinder (LFR Robot Competition) events at the national-level competition organised by the Robotics Club of BRAC University.
 - **Published Author — [BUCC SyncUp (April 2026)](https://bucc-syncup.beehiiv.com/p/bucc-syncup-april-2026):** Article titled *"AI vs AI: The Future of Cyber Defence"*, exploring the evolving landscape of cybersecurity where AI serves as both attacker and defender.
 - **Technical Write-up — [SignTutor 1.0 on Kaggle](https://www.kaggle.com/competitions/gemini-3/writeups/new-writeup-1765109533488):** Real-time, privacy-first ASL tutoring using webcam computer vision and Gemini for corrective, actionable feedback.
 
