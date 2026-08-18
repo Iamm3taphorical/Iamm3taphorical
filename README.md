@@ -127,45 +127,46 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ## Experience
 
-### [SME Careers by SuperAnnotate](https://sme.careers/) — Data Annotator Trainee *(Jun 2026 – Present)*
-**Remote**
+### [Square InformatiX Limited](https://www.e-home2u.com/) — Intern in Network & Communication Department *(Aug 2026 – Present)*
+**Bangladesh | On-site**
 
-- Contributing to AI model training by reviewing AI-generated responses and producing high-quality reference solutions across technical domains.
-- Evaluating reasoning quality, accuracy, and adherence to task instructions; identifying methodological errors and crafting expert-level explanations to improve model outputs.
-- Working directly with leading AI companies and foundation model labs via SuperAnnotate's AI data services platform.
+- Working as an intern in the Network & Communication Department, gaining practical experience in enterprise networking, communication systems, and IT infrastructure.
+- Supporting day-to-day technical operations and developing hands-on understanding of network and communication technologies.
 
 ---
 
-### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of  Research and Development Department *(June 2026 – Present)*
+### [Acme AI](https://www.acmeai.tech/) — Quality Assurance Associate *(Jun 2026 – Present)*
+**Dhaka, Bangladesh | Hybrid**
+
+- Working in quality assurance and analysis, contributing to the evaluation and improvement of AI-driven systems and outputs.
+- Applying quality assurance standards and structured testing methodologies to identify issues and maintain output quality.
+- Collaborating on quality evaluation workflows while developing practical experience in AI-focused quality assurance.
+
+---
+
+### [SME Careers by SuperAnnotate](https://sme.careers/) — Data Trainer *(Jun 2026 – Present)*
+**Contract | Remote**
+
+- Training and supporting data annotation workflows for AI model development and evaluation.
+- Applying data annotation standards to maintain consistency, accuracy, and quality across training datasets.
+- Contributing to AI data preparation and evaluation workflows through structured annotation and quality-focused review.
+
+---
+
+### [BRAC University Computer Club (BUCC)](https://www.bracucc.org/) — Senior Executive of Research and Development Department *(June 2026 – Present)*
 **Dhaka, Bangladesh**
 
 - Managing member engagement, recruitment, and team coordination within the club.
+- Contributing to research, technical initiatives, and development activities within the organization.
 - Previously served as **General Member and Executive of HR** (2024 – May 2025).
 
 ---
 
-### [IEEE BRACU Student Branch](https://ieeebracu.com/) — Secretariat Associate of the IEEE BRAC University Student Branch Specialized Committee.
- *(2026 – Present)*
+### [IEEE BRACU Student Branch](https://ieeebracu.com/) — Secretariat Associate of the IEEE BRAC University Student Branch Specialized Committee *(2026 – Present)*
 **Dhaka, Bangladesh**
 
 - Participating in technical events, research initiatives, and structured knowledge-sharing programs.
-- Contributed to student research collaboration across various initiatives.
-
----
-
-### [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
-**Remote**
-
-- Worked on real-world projects involving automation, data handling, and problem solving using core Python concepts.
-- Strengthened practical skills in data structures, scripting, and applied programming.
-
----
-
-### [BRACU Duburi](https://bracuduburi.com/) — Junior Member, AI & Machine Vision *(Mar 2025 – Present)*
-**BRAC University | Hybrid**
-
-- Developing advanced vision systems and intelligent algorithms enabling an **autonomous underwater vehicle (AUV)** to navigate complex aquatic environments, identify objects, and make real-time decisions.
-- Working with YOLO-based pipelines and OpenCV on the AI and Machine Vision sub-team.
+- Contributing to student research collaboration across various initiatives.
 
 ---
 
@@ -178,6 +179,22 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
+### [BRACU Duburi](https://bracuduburi.com/) — Junior Member, AI & Machine Vision *(Mar 2025 – Present)*
+**BRAC University | Hybrid**
+
+- Developing advanced vision systems and intelligent algorithms enabling an **autonomous underwater vehicle (AUV)** to navigate complex aquatic environments, identify objects, and make real-time decisions.
+- Working with YOLO-based pipelines and OpenCV on the AI and Machine Vision sub-team.
+
+---
+
+### [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Executive, HR Department *(Jun 2025 – Present)*
+**Dhaka, Bangladesh**
+
+- Supporting innovation-focused robotics projects by streamlining HR operations and promoting effective collaboration.
+- Previously served as **General Member of HR** (Jun 2024 – Jun 2025).
+
+---
+
 ### [IEEE Computer Society Bangladesh Chapter](https://ieeecsbdc.org/Sacretariat-25) — Research Team Member *(2025 – 2026)*
 **SECRETARIAT EXCOM 2025 | Hybrid**
 
@@ -187,11 +204,11 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 
 ---
 
-### [Robotics Club of BRAC University – ROBU](https://www.facebook.com/BRACU.Robotics.Club/) — Executive, HR Department *(Jun 2025 – Present)*
-**Dhaka, Bangladesh**
+### [CodeAlpha](https://www.codealpha.tech/) — Python Programming Intern *(Jan 2026 – Apr 2026)*
+**Remote**
 
-- Supporting innovation-focused robotics projects by streamlining HR operations and promoting effective collaboration.
-- Previously served as **General Member of HR** (Jun 2024 – Jun 2025).
+- Worked on real-world projects involving automation, data handling, and problem solving using core Python concepts.
+- Strengthened practical skills in data structures, scripting, and applied programming.
 
 ---
 
@@ -216,6 +233,14 @@ My approach centers on **clarity, modularity, collaboration, and long-term scala
 **Dhaka, Bangladesh**
 
 - Learned avionics systems and embedded programming, working on sensor integration, communication modules, and flight data handling for UAVs.
+
+---
+
+### [Quizzing Society of D.Boyzists](https://www.facebook.com/QSDB2016) — General Member *(2019 – 2020)*
+**Dhaka, Bangladesh**
+
+- Participated as a general member in quizzing and knowledge-based activities.
+- Engaged with a community focused on competitive quizzing, general knowledge, and intellectual development.
 
 ---
 
